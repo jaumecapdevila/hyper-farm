@@ -1,0 +1,22 @@
+{
+    "name": "hyper-farm",
+    "version": "0.1.0",
+    "description": "Port of the farmhouse iterm color scheme",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jaumecapdevila/hyper-farm.git"
+    },
+    "keywords": [
+        "hyperterm"
+    ],
+    "author": "Jaume Capdevila",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jaumecapdevila/hyper-farm/issues"
+    },
+    "homepage": "https://github.com/jaumecapdevila/hyper-farm#readme"
+}
